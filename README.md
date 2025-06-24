@@ -25,8 +25,8 @@ A sleek and interactive weather application built using HTML, CSS, and JavaScrip
 - A “Back” button allows returning to the input form.
 
 ## 🛎️ Getting Started
-1. '''git clone https://github.com/your-username/weather-app.git  
-cd weather-app'''
+1. git clone https://github.com/your-username/weather-app.git  
+   cd weather-app
 2. Add Your API Key
 - Replace the API key in index.html with your own from OpenWeatherMap.
 3. Open index.html in your browser  
@@ -36,8 +36,11 @@ No build or server required — this is a static front-end project.
 ## 📁 Folder Structure
 weather-app/  
 │  
+├── .github\workflows  
+|      └── deploy.yml  
 ├── index.html         # Main HTML file  
 ├── style.css          # Styling and layout  
+├── README.md  
 └── video/    
 
 ## 📝 Acknowledgements
