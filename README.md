@@ -15,6 +15,9 @@ A sleek and interactive weather application built using HTML, CSS, and JavaScrip
 - JavaScript (Fetch API)
 - OpenWeatherMap API
 
+## Try activity of API key in browser
+https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=YOUR_API_KEY&units=metric  
+
 ## 📷 Video
 ![Preview](video/preview.mp4)  
 
