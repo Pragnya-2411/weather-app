@@ -28,10 +28,10 @@ https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=YOUR_API_KEY&units
 - A “Back” button allows returning to the input form.
 
 ## 🛎️ Getting Started
-1. git clone https://github.com/your-username/weather-app.git  
-   cd weather-app
+1. 'git clone https://github.com/your-username/weather-app.git  
+   cd weather-app'
 2. Add Your API Key
-- Replace the API key in index.html with your own from OpenWeatherMap.
+ - Replace the API key in index.html with your own from OpenWeatherMap.
 3. Open index.html in your browser  
 
 No build or server required — this is a static front-end project.  
